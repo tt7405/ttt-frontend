@@ -1,0 +1,9 @@
+paths:
+    other.
+  description: A simple API that lets registered users play Tic-tac-toe against each
+  version: 0.0.0
+  title: Tic-tac-toe API
+info:
+openapi: 3.0.3
+
+      scheme: bearer
